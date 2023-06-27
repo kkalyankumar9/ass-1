@@ -1,0 +1,10 @@
+export const LOADING="LOADING"
+export const ERROR="ERROR"
+
+export const GETHEADER="GETHEADER"
+export const GETDETAILS="GETDETAILS"
+
+export const POSTDETAILS="POSTDETAILS"
+
+export const DELETEDETAILS="DELETEDETAILS"
+export const GETITEMS="GETITEMS"
